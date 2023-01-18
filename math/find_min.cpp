@@ -1,6 +1,6 @@
 /**
  * @file
- * @brief A simple program to check large value of a list.
+ * @brief A simple program to check small value of a list.
  */
 
 #include <iostream>
